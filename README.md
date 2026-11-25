@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Gowtham T 👋
 
-<!--
-**gowtham-techlab/gowtham-techlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Data Analyst
 
-Here are some ideas to get you started:
+B.Tech Information Technology graduate interested in
+building web applications and analysing data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- HTML, CSS, JavaScript
+- React.js
+- Python
+- SQL, MySQL
+- Power BI
+- Git & GitHub
+
+## 🚀 Projects
+
+### Software Development
+- User Management Application
+- CRUD Application
+
+### Data Analytics
+- Customer Sales Analytics
+- Superstore Business Analysis
+- Indian Election SQL Analysis
+- Global GDP Dashboard
+
+## 📫 Connect With Me
+
+- LinkedIn: linkedin.com/in/gowtham1967
+- GitHub: https://github.com/gowtham-techlab
+- Email: gowthamt1967@gmail.com
